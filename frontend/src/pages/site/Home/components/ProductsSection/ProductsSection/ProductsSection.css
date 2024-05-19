@@ -1,0 +1,22 @@
+.products__section__heading h2::before{
+    content: "";
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    position: absolute;
+    width: 40px;
+    height: 2px;
+    background: #7971ea;
+}
+
+.products__section__heading {
+    position: relative;
+}
+
+.products__section__heading h2{
+    font-size: 30px;
+    color: #25262a;
+   margin-top: 26px;
+    
+ 
+}

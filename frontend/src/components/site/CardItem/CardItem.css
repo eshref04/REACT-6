@@ -1,0 +1,31 @@
+.products__section__card__items{
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.products__section__card__items:hover{
+    cursor: pointer;
+}
+
+.products__section__card__items__text h3{
+    color: #7971ea;
+    font-size: 20px;
+}
+
+.products__section__card__items__text p{
+    line-height: 1.7;
+    color: #8c92a0;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.products__section__card__items__text span{
+    color: #7971ea;
+    font-size: 16px;
+    font-weight: 700 !important;
+    font-size: 16px;
+}
+
+.products__section__card__items a{
+    text-decoration: none;
+}
